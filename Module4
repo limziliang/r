@@ -4,7 +4,6 @@ first <- c(1,1,1,1,0,0,0,0,NA,1)
 second <-c(0,0,1,1,0,0,1,1,1,1)
 finaldecision <-c(0,1,0,1,0,1,0,1,1,1)
 
-
 hist(Bloodp)
 hist(finaldecision)
 hist(first)
